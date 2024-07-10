@@ -6,7 +6,7 @@ ___
 
 ## James McArthur
 
-Auckland, New Zealand · Smoljames.com · in/jamezmcarthur
+Auckland, New Zealand · [Smoljames.com](https://www.smoljames.com) · [in/jamezmcarthur](https://www.linkedin.com/in/jamezmcarthur/)
 
 Innovative self-taught software developer with a passion for problem solving and design. Specializes in full-stack development, solutionarchitecture, project vision, JavaScript, Python, and other web technologies. Recognized for leadership abilities and successful projectdeliveries.
 
