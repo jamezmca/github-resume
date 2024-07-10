@@ -10,9 +10,11 @@ Auckland, New Zealand · [Smoljames.com](https://www.smoljames.com) · [in/jamez
 
 Innovative self-taught software developer with a passion for problem solving and design. Specializes in full-stack development, solutionarchitecture, project vision, JavaScript, Python, and other web technologies. Recognized for leadership abilities and successful projectdeliveries.
 
+Currently I enjoy working with **SvelteKit/Next.js, TailwindCSS, Node.js, PostgreSQL & Firebase**.
+
 ## Professional Experience
 
-### Hyr.sh | CEO & Founder
+### [Hyr.sh · The Lightweight AI Resume Builder](https://www.hyr.sh) | CEO & Founder
 ***Auckland, New Zealand | Dec 2023 - Present***
 
 * Developed Hyr.sh - a lightweight AI resume builder trusted by over 1500+ users.
