@@ -1,6 +1,10 @@
 # GitHub-Resume-Template
 
-Fork this template to create your own Markdown resume for your GitHub bio 🔥
+Fork and star ⭐️ this template to create your own Markdown resume for your GitHub bio 🔥
+
+1. Fork the repo.
+2. Edit the markdown file and fill in your own information.
+3. Update to your GitHub's Readme.md page.
 
 ___
 
